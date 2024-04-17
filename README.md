@@ -13,6 +13,5 @@ Feel free to explore the website and discover interesting content!
 ## Contact
 If you have any questions, suggestions, or feedback regarding the Thinklay website, feel free to reach out:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Profile]
+- Email: [dp.devesh65@gmail.com]
+
